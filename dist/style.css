@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  font-family: "Ubuntu", sans-serif;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+  width: 50%;
+  color: #fff;
+  background: royalblue;
+}
